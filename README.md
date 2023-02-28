@@ -9,8 +9,10 @@ INSTALLATION STEPS
 2. Go to the folder where you have downloaded the python
 3. Then Upgrade the PIP(Latest Version)
 4. Then install re by using the following command
+          
           " pip install re "
-5. The command prompt will shw the output 
+5. The command prompt will show the output 
+          
           " re has been successfully installed "
 
 The code is a simple chatbot that acts as a basic calculator. The chatbot interacts with the user by taking input from them, processing it, and providing a response based on the input.
