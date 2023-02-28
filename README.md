@@ -1,9 +1,9 @@
 # chat_bot
 
-# INSTALLED LIBRARIES
+INSTALLED LIBRARIES
 1. re
 
-# INSTALLATION STEPS
+INSTALLATION STEPS
 
 1. open Command Prompt
 2. Go to the folder where you have downloaded the python
@@ -24,4 +24,5 @@ In addition to performing calculations, the chatbot can also respond to small ta
 The chatbot also provides the user with a list of available operations if they request it. The chatbot will continue to run until the user types "exit", at which point the program will terminate with a farewell message.
 
 Below is the screenshot of the output
+
 ![Output](https://user-images.githubusercontent.com/82249340/221859210-2303ff47-e110-438d-9168-a4ea8ebff6bb.png)
